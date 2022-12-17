@@ -70,7 +70,7 @@ export default {
     color: var(--dark-text-color);
     font-size: 15px;
     border-radius: 5px;
-    width: 30px;
+    width: 100px;
     height: 50px;
 }
 .btn-branco{
